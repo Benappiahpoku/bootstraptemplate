@@ -1,5 +1,6 @@
 # how to uninstall save package in npm?
   - npm uninstall --save gulp-livereload
+  - npm uninstall --save imagemin
 
 # how to set up node.js?
   - download node.js
@@ -32,6 +33,7 @@
 # how to install gulp, broweser, gulp-sass?
   - npm install gulp browser-sync gulp-sass --save-dev
   - npm install gulp-plumber beeper  --save-dev
+  - npm install gulp-imagemin --save-dev
 
 
 # how to change your CDN links to local?
