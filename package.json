@@ -1,0 +1,35 @@
+{
+  "name": "bootstraptemplate",
+  "version": "1.0.0",
+  "description": "bootstrap starter template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benappiahpoku/bootstraptemplate.git"
+  },
+  "keywords": [
+    "starter",
+    "template"
+  ],
+  "author": "Benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benappiahpoku/bootstraptemplate/issues"
+  },
+  "homepage": "https://github.com/Benappiahpoku/bootstraptemplate#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "tether": "^1.4.7"
+  },
+  "devDependencies": {
+    "beeper": "^2.0.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
